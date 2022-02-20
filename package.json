@@ -1,5 +1,5 @@
 {
-  "name": "cloudflare-discord-bot",
+  "name": "@irazasyed/cloudflare-discord-bot",
   "version": "0.0.1",
   "description": "A framework to build Discord Bots on top of Cloudflare Workers.",
   "author": "alvgaona@gmail.com",
