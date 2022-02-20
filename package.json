@@ -10,10 +10,6 @@
   "files": [
     "dist/"
   ],
-  "exports": {
-    ".": "./dist/index.js",
-    "./package.json": "./package.json"
-  },
   "eslintConfig": {
     "root": true,
     "extends": [
