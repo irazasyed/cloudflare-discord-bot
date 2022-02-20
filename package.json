@@ -1,5 +1,5 @@
 {
-  "name": "@irazasyed/cloudflare-discord-bot",
+  "name": "cf-discord-bot",
   "version": "0.0.1",
   "description": "A framework to build Discord Bots on top of Cloudflare Workers.",
   "author": "alvgaona@gmail.com",
@@ -41,5 +41,8 @@
     "format": "prettier --write  '*.{json,js}' 'src/**/*.{js,ts}' 'test/**/*.{js,ts}'",
     "lint": "eslint --max-warnings=0 src && prettier --check '*.{json,js}' 'src/**/*.{js,ts}' 'test/**/*.{js,ts}'",
     "test": "echo \"No tests specified\""
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
