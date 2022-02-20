@@ -6,9 +6,9 @@
   "license": "Apache License 2.0",
   "private": false,
   "main": "dist/index.js",
-  "types": "dist",
+  "types": "dist/index.d.ts",
   "files": [
-    "dist/"
+    "dist"
   ],
   "eslintConfig": {
     "root": true,
